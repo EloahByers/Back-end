@@ -1,0 +1,28 @@
+{
+  "usuario": [
+    {
+      "usuario": "Murilo",
+      "senha": 222
+    },
+    {
+      "usuario": "Raphael",
+      "senha": 333
+    },
+    {
+      "usuario": "Felipe",
+      "senha": 444
+    },
+    {
+      "usuario": "Elton",
+      "senha": 555
+    },
+    {
+      "usuario": "Giovanna",
+      "senha": 666
+    },
+    {
+      "usuario": "Julia",
+      "senha": 777
+    }
+  ]
+}
